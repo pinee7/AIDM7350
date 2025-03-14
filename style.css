@@ -28,7 +28,7 @@ h2.standout
 }
  
 .image4:hover{
-    filter: greyscale(70%);
+    filter: grayscale(70%);
 }
 
 .image5:hover{
